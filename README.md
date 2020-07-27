@@ -9,4 +9,5 @@ Thankful ❤
 - [Channel Telegram](https://t.me/source_pro) - Source-Pro
 - [Instagram](https://instagram.com/mr.aliilapro) - insta aliilapro
 
-[![ALIILAPRO](https://github-readme-stats.vercel.app/api?username=aliilapro&show_icons=true&count_private=true&theme=highcontrast)] (https://aliilapro.github.io)
+
+[![Mr ALIILAPRO](https://github-readme-stats.vercel.app/api?username=aliilapro&show_icons=true&count_private=true&theme=highcontrast)](https://aliilapro.github.io)
