@@ -10,4 +10,4 @@ Thankful ❤
 - [Instagram](https://instagram.com/mr.aliilapro) => instagram mr.aliilapro
 
 
-[![Mr ALIILAPRO](https://github-readme-stats.vercel.app/api?username=aliilapro&show_icons=true&count_private=true&theme=highcontrast)](https://aliilapro.github.io)
+[![Mr ALIILAPRO](https://github-readme-stats.vercel.app/api?username=aliilapro&show_icons=true&theme=highcontrast)](https://aliilapro.github.io)
