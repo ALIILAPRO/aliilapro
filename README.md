@@ -4,6 +4,6 @@ I am a software programmer.👨‍💻 My name is Ali and I am from Iran. I love
 Thankful ❤
 
 ### Get in touch with me
-- [Telegram](https://t.me/aliilapro) - ALIILAPRO
-- [bLOG](https://aliilapro.blog.ir) - ALIILAPRO, Blog
+- [Telegram](https://t.me/aliilapro)          - ALIILAPRO
+- [Blog](https://aliilapro.blog.ir)           - ALIILAPRO, Blog
 - [Channel Telegram](https://t.me/source_pro) - Source-Pro
