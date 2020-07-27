@@ -4,10 +4,10 @@ I am a software programmer.👨‍💻 My name is Ali and I am from Iran. I love
 Thankful ❤
 
 ### Get in touch with me
-- [Telegram](https://t.me/aliilapro)          - ALIILAPRO
-- [Blog](https://aliilapro.blog.ir)           - ALIILAPRO, Blog
-- [Channel Telegram](https://t.me/source_pro) - Source-Pro
-- [Instagram](https://instagram.com/mr.aliilapro) - insta aliilapro
+- [Telegram](https://t.me/aliilapro)          => ALIILAPRO
+- [Blog](https://aliilapro.blog.ir)           => ALIILAPRO, Blog
+- [Channel Telegram](https://t.me/source_pro) => Source-Pro
+- [Instagram](https://instagram.com/mr.aliilapro) => insta aliilapro
 
 
 [![Mr ALIILAPRO](https://github-readme-stats.vercel.app/api?username=aliilapro&show_icons=true&count_private=true&theme=highcontrast)](https://aliilapro.github.io)
