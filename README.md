@@ -9,4 +9,4 @@ Thankful ❤
 - [Channel Telegram](https://t.me/source_pro) => Source-Pro
 
 
-[![ALIILAPRO](https://github-readme-stats.vercel.app/api?username=aliilapro&theme=highcontrast&hide=prs&count_private=true&show_icons=true&include_all_commits=true)](https://aliilapro.github.io)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliilapro&theme=highcontrast&hide=prs&count_private=true&show_icons=true&include_all_commits=true)](https://aliilapro.github.io)
