@@ -10,3 +10,7 @@ Thankful ❤
 
 
 [![ALIILAPRO](https://github-readme-stats.vercel.app/api?username=aliilapro&hide=prs,issues,contribs&theme=highcontrast&count_private=true&show_icons=true&include_all_commits=true)](https://aliilapro.github.io)
+
+## Visitors Count
+
+<img align="center" src = "https://profile-counter.glitch.me/aliilapro/count.svg" alt ="ALI">
