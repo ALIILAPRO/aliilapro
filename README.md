@@ -5,7 +5,7 @@ Thankful ❤
 
 ### Get in touch with me
 - [Telegram](https://t.me/aliilapro)          => ALIILAPRO
-- [Blog](https://aliilapro.blog.ir)           => ALIILAPRO, Blog
+- [YouTube](https://www.youtube.com/channel/UCsq5dmDDFD02d6JF2UdtMow)           => ALIILAPRO
 - [Channel Telegram](https://t.me/source_pro) => Source-Pro
 
 
