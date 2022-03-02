@@ -2,9 +2,7 @@
 <h2 align="center">Developer & Programmer</h2>
 <h3 align="center">VB, C#, PYTHON, PHP & TG, BOT DEV</h3>
 <h3 align="center">
-  <br>
   <a href="https://t.me/aliilapro"><img src="https://profile-counter.glitch.me/aliilapro/count.svg" alt="visitor" width="200"></a>
-  <br>
   Visitor Count
   <br>
 </h3>
