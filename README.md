@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✌, I'm ALIILAPRO</h1>
-<h2 align="center">Developer & Programmer</h2>
+<h2 align="center">Programmer & Developer</h2>
 <h2 align="center">VB, C#, PYTHON, PHP & TG BOT</h3>
 <h3 align="center">
   <a href="https://t.me/aliilapro"><img src="https://profile-counter.glitch.me/aliilapro/count.svg" alt="visitor" width="200"></a>
