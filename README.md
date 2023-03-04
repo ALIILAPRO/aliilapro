@@ -18,7 +18,4 @@ Thankful ❤</b></p>
 <a href="aliilapro.github.io"><img src="https://github-readme-stats.vercel.app/api?username=aliilapro&hide=prs,issues,contribs&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)](https://aliilapro.github.io"></a>
 </h3>
 
-<a href="aliilapro.github.io"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliilapro&langs_count=10&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&compact&hide_border=true&layout=compact)](https://aliilapro.github.io"></a>
-</h3> 
-
 <h1 align="center">The Long Hope🤲.</h>
