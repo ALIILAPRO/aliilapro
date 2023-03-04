@@ -19,4 +19,4 @@ Thankful ❤</b></p>
   <a href="https://t.me/aliilapro"><img src="https://profile-counter.glitch.me/aliilapro/count.svg" alt="visitor" width="200"></a>
 </h3>
 
-<h1 align="center">The Long Hope🤲.</h>
+<h1 align="center">The Long Hope</h>
