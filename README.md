@@ -18,10 +18,10 @@
 ### About Me
 
 
-<p align="left">Everything in my life story started from the fascinating world of mobile operating system. How to run and display... this operating system made me drawn to the world of technology. That's where I got into programming and started learning and building the programs I needed until I became a programmer.
+<p align="left"><b>Everything in my life story started from the fascinating world of mobile operating system. How to run and display... this operating system made me drawn to the world of technology. That's where I got into programming and started learning and building the programs I needed until I became a programmer.
 Programming and its challenges are my whole life and I like to create programs that are special and unique.
 Like any other boy, I dream to be a big man, but this dream needs attention and I will pay the price and double my work to achieve what I dreamed of!!!!
-Never be disappointed in your life.</p>
+  Never be disappointed in your life.</b></p>
 <h3 align="center">
   
 <a href="aliilapro.github.io"><img src="https://github-readme-stats.vercel.app/api?username=aliilapro&hide=prs,issues,contribs&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)](https://aliilapro.github.io"></a>
