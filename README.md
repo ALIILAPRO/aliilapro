@@ -5,7 +5,7 @@
 - 🌱 Currently, I am trying to contribute to a **better** life with my own projects.
 - 📧 How to reach me: aliilapro@pm.me
 
-### 📱 Social
+### Social
 
 - [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aliilapro)
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/mr.aliilapro)](https://www.instagram.com/mr.aliilapro)
