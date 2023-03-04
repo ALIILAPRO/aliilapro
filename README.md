@@ -5,10 +5,15 @@
 - 🌱 Currently, I am trying to contribute to a **better** life with my own projects.
 - 📧 How to reach me: aliilapro@pm.me
 
-### Social
+### 📱 Social
 
 - Telegram:  [**ALIILAPRO**](https://t.me/aliilapro)
 - Instagram: [**MR.ALIILAPRO**](https://www.instagram.com/mr.aliilapro)
+- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/aliilapro)](https://twitter.com/aliilapro)
+
+### 💻 Skills
+
+
 
 <h3 align="center">
 <a href="https://www.youtube.com/channel/UCsq5dmDDFD02d6JF2UdtMow"><img src="https://img.shields.io/website?color=red&down_message=Channel&label=YouTUbe&logo=youtube&logoColor=red&style=for-the-badge&up_message=Channel&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCsq5dmDDFD02d6JF2UdtMow"></a>
