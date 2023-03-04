@@ -7,7 +7,7 @@
 
 ### 📱 Social
 
-- [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Linkedin&logoColor=white)](https://t.me/aliilapro)
+- [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aliilapro)
 - [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/mr.aliilapro)](https://www.instagram.com/mr.aliilapro)
 - [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/aliilapro)](https://twitter.com/aliilapro)
 
