@@ -27,12 +27,13 @@ Like any other boy, I dream to be a big man, but this dream needs attention and 
 <a href="aliilapro.github.io"><img src="https://github-readme-stats.vercel.app/api?username=aliilapro&hide=prs,issues,contribs&show_icons=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&count_private=true&show_icons=true&include_all_commits=true)](https://aliilapro.github.io"></a>
 </h3>
 
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
 <h3 align="center">
 <a href="aliilapro.github.io"><img src="https://github-profile-trophy.vercel.app/?username=aliilapro&theme=discord&no-frame=true&no-bg=false&margin-w=4)](https://aliilapro.github.io"></a>
 </h3>
 
 <h3 align="center">
-  <h2> 🏆 GitHub Trophies 🏆 </h2>
   <a href="https://t.me/aliilapro"><img src="https://profile-counter.glitch.me/aliilapro/count.svg" alt="visitor" width="200"></a>
 </h3>
 
