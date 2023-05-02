@@ -32,6 +32,7 @@ Like any other boy, I dream to be a big man, but this dream needs attention and 
 </h3>
 
 <h3 align="center">
+  <h2> 🏆 GitHub Trophies 🏆 </h2>
   <a href="https://t.me/aliilapro"><img src="https://profile-counter.glitch.me/aliilapro/count.svg" alt="visitor" width="200"></a>
 </h3>
 
