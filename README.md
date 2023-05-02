@@ -28,7 +28,7 @@ Like any other boy, I dream to be a big man, but this dream needs attention and 
 </h3>
 
 <h3 align="center">
-<a href="aliilapro.github.io"><img src="[(https://github-profile-trophy.vercel.app/?username=aliilapro&theme=matrix&no-frame=true&no-bg=false&margin-w=4)](https://aliilapro.github.io"></a>
+<a href="aliilapro.github.io"><img src="https://github-profile-trophy.vercel.app/?username=aliilapro&theme=matrix&no-frame=true&no-bg=false&margin-w=4)](https://aliilapro.github.io"></a>
 </h3>
 
 <h3 align="center">
