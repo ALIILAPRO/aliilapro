@@ -33,9 +33,9 @@ Like any other boy, I dream to be a big man, but this dream needs attention and 
 <a href="aliilapro.github.io"><img src="https://github-profile-trophy.vercel.app/?username=aliilapro&theme=discord&no-frame=true&no-bg=false&margin-w=4)](https://aliilapro.github.io"></a>
 </h3>
 
-<h2 align="center">:. Random Dev Quote .:</h2>
+<h2 align="center">💰 You can help me by Donating</h2>
 <h3 align="center">
-<a href="aliilapro.github.io"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://aliilapro.github.io"></a>
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aliilapro)
 </h3>
 
 <h3 align="center">
