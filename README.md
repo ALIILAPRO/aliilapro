@@ -33,7 +33,7 @@ Like any other boy, I dream to be a big man, but this dream needs attention and 
 <a href="aliilapro.github.io"><img src="https://github-profile-trophy.vercel.app/?username=aliilapro&theme=discord&no-frame=true&no-bg=false&margin-w=4)](https://aliilapro.github.io"></a>
 </h3>
 
-<h2 align="center">✍️ Random Developer Quote ✍️</h2>
+<h2 align="center">:. Random Dev Quote .:</h2>
 <h3 align="center">
 <a href="aliilapro.github.io"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://aliilapro.github.io"></a>
 </h3>
