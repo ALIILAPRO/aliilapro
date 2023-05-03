@@ -1,11 +1,8 @@
 <h2 align="center">Ali.B (ALIILAPRO)</h2>
-<h3 align="center"><a>
   - 💻 Owner of team **Source-Pro** & **Modded Central**.
   - 😉 I am currently learning to live with **humans**:/
   - 🌱 Currently, I am trying to contribute to a **better** life with my own projects.
   - 📧 How to reach me: aliilapro@pm.me
-  </a>
-</h3>
 
 
 <h2 align="center">Skills</h2>
