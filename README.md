@@ -38,7 +38,7 @@ Like any other boy, I dream to be a big man, but this dream needs attention and 
 <h2 align="center">💰 You can help me by Donating 💰</h2>
 <h3 align="center">
 <a href="https://paypal.me/aliilapro"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]()"></a>
-<a href="https://idpay.ir/aliilapro"><img src="https://img.shields.io/badge/Donate-%F0%9F%87%AE%F0%9F%87%B7%20Iranian%20payment-blue)]()"></a>
+<a href="https://idpay.ir/aliilapro"><img src="https://img.shields.io/badge/Donate-%F0%9F%87%AE%F0%9F%87%B7%20Iranian%20payment-blue?style=for-the-badge)]()"></a>
 </h3>
 
 <h3 align="center">
